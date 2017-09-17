@@ -23,6 +23,8 @@ def hi_everybody(filepath):
     plot_data(bitrate, audio_data)
 ```
 
+My goal was to make it so the whole thing could be run start to finish with one command, hence the bash script. Just running `zsh sound_file.sh` downloads the file, edits it, and calls the `Python` script to finish up all the fun.
+
 And then we wind up with something like this:
 
 ![soundwave]
