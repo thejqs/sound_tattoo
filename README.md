@@ -8,9 +8,9 @@ I grew up listening to [Vin Scully](https://www.sbnation.com/longform/2014/6/2/5
 
 He retired last year after 67 seasons with the Dodgers, Brooklyn and Los Angeles. This season would be the first in almost literally the living memory of my family where Dodger games would not begin with a familiar "Hi, everybody, and a very pleasant good evening to you, wherever you may be."
 
-Every game. Some version of that sentence. And I missed it
+Every game. Some version of that sentence. And I missed i. A lot.
 
-So found a source video floating around the internet -- one that contained Vin and his friendly greeting. I used `cURL` to download it, `ffmpeg` to strip out the video stream and cut it down to the subset of the auio I wanted, and then Python to turn that audio into something visual.
+So found a source video floating around the internet -- one that contained Vin and his friendly greeting. I used `cURL` to download it, `ffmpeg` to strip out the video stream and cut it down to the subset of the auio I wanted, and then `Python 3.6` to turn that audio into something visual.
 
 ```python
 def hi_everybody(filepath):
