@@ -60,11 +60,15 @@ def plot_data(bitrate, data):
     none; terminates with the writing out of the image file
     '''
     time = np.arange(0, float(data.shape[0]), 1) / bitrate
+    # set the type of plot to use in matplotlib's near-inscrutable weirdness
     plt.figure(1)
     plt.subplot(211)
+    # plot the data
     plt.plot(time, data, linewidth=0.06, alpha=0.9, color='000000')
+    # label the chart
     plt.xlabel('Time (s)')
     plt.ylabel('Amplitude')
+    # bring it to life
     plt.savefig('vin.png', bbox_inches='tight')
 
 
