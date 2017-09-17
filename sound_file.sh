@@ -8,5 +8,5 @@ ffmpeg -i av_files/vin.mp4 -vn -acodec copy av_files/vin.aac
 # at the sixth second
 ffmpeg -ss 6 -t 4 -i av_files/vin.aac av_files/short_vin.aac
 
-# fires up the Python script to turn tat snippet into an image 
+# fires up the Python script to turn that snippet into an image
 ~/Development/virtualenvs/sound_tattoo/bin/python3 sound_graph.py
