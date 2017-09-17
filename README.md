@@ -10,7 +10,7 @@ He retired last year after 67 seasons with the Dodgers, Brooklyn and Los Angeles
 
 Every game. Some version of that sentence. And I missed it. A lot.
 
-So found a source video floating around the internet -- one that contained Vin and his friendly greeting. I used `cURL` to download it, `ffmpeg` to strip out the video stream and cut it down to the subset of the auio I wanted, and then `Python 3.6` to turn that audio into something visual.
+So I found a source video floating around the internet -- one that contained Vin and his friendly greeting. I used `cURL` to download it, `ffmpeg` to strip out the video stream and cut it down to the subset of the audio I wanted, and then `Python 3.6` to turn that audio into something visual.
 
 ```python
 def hi_everybody(filepath):
