@@ -29,7 +29,15 @@ And then we wind up with something like this:
 
 ![soundwave]
 
-Some Sundays are more fun than other Sundays.
+Now, a soundwave tattoo is a bit of a cliché. And I rather like a tattoo to be a collaborative process with the artist. I'm not the best visual or artistic thinker, and I know nothing about translating art-on-paper to another medium -- skin.
 
-[soundwave]:https://raw.githubusercontent.com/thejqs/sound_tattoo/master/vin.png 
+So I took this soundwave to [Matt "Octeel" Macri](https://www.instagram.com/octeeltattoo/) for some guidance. Looking through his drawings, I found some stylized flowers I liked. But I didn't want just any flower. So I sent him one with some significance to me: [gentiana dinarica](https://api.tela-botanica.org/img:000052354CRS.jpg). Italian distillers use its roots in traditional liqueurs I love. And it takes me back to a beautiful fall day in the Monti Sibillini looking for wild gentian while getting one of the craziest and best tours one can imagine.
 
+It was his idea to blow up the soundwave and incorporate parts of it into striations on the flower's leaves. Which I thought was pretty cool. Thus empowered, he made this happen:
+
+![tattoo]
+
+And now I can carry those memories with me always, inside and out.
+
+[soundwave]:https://raw.githubusercontent.com/thejqs/sound_tattoo/master/vin.png
+[tattoo]:https://github.com/thejqs/sound_tattoo/blob/master/av_files/tattoo.jpg
