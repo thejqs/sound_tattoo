@@ -2,7 +2,7 @@
 
 It's not my first. So I wanted something a little different. Something code-related, but personal.
 
-I'd taken the time to [learn code](https://georgerede.wordpress.com/2017/08/23/a-writer-writes-always/) after spending years working in journalism and wanted to use it to create something special -- the basis for artwork I would be happy to wear.
+I'd taken the time to [learn to code](https://georgerede.wordpress.com/2017/08/23/a-writer-writes-always/) after spending years working in journalism and wanted to use it to create something special -- the basis for artwork I would be happy to wear.
 
 I grew up listening to [Vin Scully](https://www.sbnation.com/longform/2014/6/2/5764256/vin-scully-career-retrospective-dodgers-broadcaster-profile). My parents grew up listening to Vin Scully. When I was little, I could grab my pillow and lay my head on one of the four steps leading down into the room I shared with my brother and hear him call the last few innings of whatever that night's Dodger game was. In my world, there were fewer more soothing sounds than that of Vin Scully's voice.
 
